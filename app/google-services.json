@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350358475409",
+    "firebase_url": "https://voice-chat-app-dcb58.firebaseio.com",
+    "project_id": "voice-chat-app-dcb58",
+    "storage_bucket": "voice-chat-app-dcb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350358475409:android:ab0601733486773227e530",
+        "android_client_info": {
+          "package_name": "com.amdc.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350358475409-5708vvstda9ml0k2pn31mi0m2dtlpagv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amdc.videochat",
+            "certificate_hash": "75a0a72d5fbb6d20f0af2357beaa2fc8b91669c2"
+          }
+        },
+        {
+          "client_id": "350358475409-344052aavstbg4kb61ggqga7gddp4tpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_9AwwcZiDGaGqTHJS_r7XE7m0g5lxTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350358475409-344052aavstbg4kb61ggqga7gddp4tpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
